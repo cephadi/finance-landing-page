@@ -1,4 +1,4 @@
-# Tailwind Manage Landing Page
+# ReactJs & Tailwind Finance Landing Page
 
 This is the project for finance landing page using ReactJs & Tailwind CSS.
 
