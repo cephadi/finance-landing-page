@@ -2,7 +2,7 @@
 
 This is the project for finance landing page using ReactJs & Tailwind CSS.
 
-![Alt text](/src/project_tailwind_2.png?raw=true)
+![Alt text](/src/assets/project_tailwind_2.png?raw=true)
 
 # Usage
 
